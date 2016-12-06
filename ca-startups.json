@@ -1,0 +1,1185 @@
+[
+  {
+    "name": "Airphrame",
+    "lat": 37.7825688,
+    "lng": -122.41114820000001,
+    "url": "http://www.airphrame.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Airware (Prev Unmanned Innovation)",
+    "lat": 37.7717839,
+    "lng": -122.40732600000001,
+    "url": "http://www.airware.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Knightscope",
+    "lat": 37.408816,
+    "lng": -122.07484499999998,
+    "url": "http://knightscope.com/",
+    "type": "Safety & security equipment & bots"
+  },
+  {
+    "name": "Lift Labs",
+    "lat": 37.7285767,
+    "lng": -122.3952013,
+    "url": "http://www.liftware.com/",
+    "type": "Healthcare"
+  },
+  {
+    "name": "AIO Robotics",
+    "lat": 33.9801999,
+    "lng": -118.44030429999998,
+    "url": "http://www.aiorobotics.com",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "Robo 3D Printer",
+    "lat": 32.8266568,
+    "lng": -117.2302909,
+    "url": "http://robo3d.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "5D Robotics",
+    "lat": 33.131843,
+    "lng": -117.27847939999998,
+    "url": "http://www.5drobotics.com",
+    "type": "Unmanned & mobile robotics"
+  },
+  {
+    "name": "HiDOF",
+    "lat": 37.6424899,
+    "lng": -122.4149026,
+    "url": "http://hidof.com/",
+    "type": ""
+  },
+  {
+    "name": "Navisens",
+    "lat": 37.7874316,
+    "lng": -122.39644680000004,
+    "url": "http://www.navisens.com",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "OpenROV",
+    "lat": 37.4122631,
+    "lng": -122.05777669999998,
+    "url": "http://www.openrov.com",
+    "type": "Unmanned aerial & marine systems"
+  },
+  {
+    "name": "AgriFlight",
+    "lat": 38.594607,
+    "lng": -121.34860600000002,
+    "url": "http://agriflight.com/",
+    "type": "Ag industry"
+  },
+  {
+    "name": "Blue River Technology",
+    "lat": 37.3918343,
+    "lng": -122.0343742,
+    "url": "http://www.bluerivert.com",
+    "type": "Ag industry"
+  },
+  {
+    "name": "CyberHeart Inc.",
+    "lat": 37.3700236,
+    "lng": -122.08242949999999,
+    "url": "http://www.cyberheartinc.com",
+    "type": "Medical devices"
+  },
+  {
+    "name": "Deezmaker",
+    "lat": 34.1512314,
+    "lng": -118.12133449999999,
+    "url": "http://deezmaker.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "Double Robotics",
+    "lat": 37.375666,
+    "lng": -122.00775699999997,
+    "url": "http://www.doublerobotics.com",
+    "type": "Remote presence bots"
+  },
+  {
+    "name": "Fellow Robots (was 9th Sense)",
+    "lat": 37.41752,
+    "lng": -122.05250000000001,
+    "url": "http://fellowrobots.com/",
+    "type": "Service Robots for Governmental and Corporate Use"
+  },
+  {
+    "name": "FoldiMate",
+    "lat": 37.5727039,
+    "lng": -122.31640390000001,
+    "url": "http://www.FoldiMate.com",
+    "type": "Service Robots for Personal and Private Use"
+  },
+  {
+    "name": "Grabit Inc.",
+    "lat": 37.363971,
+    "lng": -121.951953,
+    "url": "http://grabitinc.com/",
+    "type": "Arm and/or Gripper"
+  },
+  {
+    "name": "Matternet",
+    "lat": 37.410677,
+    "lng": -122.05830939999998,
+    "url": "http://mttr.net/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Momentum Machines",
+    "lat": 37.7753512,
+    "lng": -122.39877849999999,
+    "url": "http://momentummachines.com/",
+    "type": "Food handling"
+  },
+  {
+    "name": "Party Robotics (Bartendro)",
+    "lat": 35.2673082,
+    "lng": -120.63870759999998,
+    "url": "http://partyrobotics.com/",
+    "type": "Food handling"
+  },
+  {
+    "name": "Peloton Technology",
+    "lat": 37.4470477,
+    "lng": -122.1841435,
+    "url": "http://www.peloton-tech.com/",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "Printrbot",
+    "lat": 38.891125,
+    "lng": -121.29312600000003,
+    "url": "http://printrbot.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "Restoration Robotics",
+    "lat": 37.4202625,
+    "lng": -121.95612970000002,
+    "url": "http://www.rrobotics.com/",
+    "type": "Medical devices"
+  },
+  {
+    "name": "RoboDynamics",
+    "lat": 34.0194543,
+    "lng": -118.4911912,
+    "url": "http://robodynamics.com/",
+    "type": ""
+  },
+  {
+    "name": "RoboteX, Inc.",
+    "lat": 37.3815101,
+    "lng": -121.9939397,
+    "url": "http://www.robotex.com/",
+    "type": "Defense & Space systems"
+  },
+  {
+    "name": "Savioke",
+    "lat": 37.3744017,
+    "lng": -121.99548140000002,
+    "url": "http://www.savioke.com",
+    "type": "Remote presence bots"
+  },
+  {
+    "name": "Skycatch",
+    "lat": 37.7808637,
+    "lng": -122.39549390000002,
+    "url": "http://www.skycatch.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Suitable Technologies",
+    "lat": 37.4219636,
+    "lng": -122.10054839999998,
+    "url": "https://www.suitabletech.com/",
+    "type": "Remote presence bots"
+  },
+  {
+    "name": "TerrAvion",
+    "lat": 37.6962324,
+    "lng": -121.81895559999998,
+    "url": "http://www.terravion.com/",
+    "type": "Ag industry"
+  },
+  {
+    "name": "Veebot LLC",
+    "lat": 37.406832,
+    "lng": -122.07102800000001,
+    "url": "http://www.veebot.com",
+    "type": "Medical devices"
+  },
+  {
+    "name": "Anki",
+    "lat": 37.7875414,
+    "lng": -122.38843989999998,
+    "url": "https://anki.com/en-us",
+    "type": "Toys"
+  },
+  {
+    "name": "ArcBotics",
+    "lat": 37.795665,
+    "lng": -122.27699799999999,
+    "url": "http://arcbotics.com/",
+    "type": "Hobby kits & sales"
+  },
+  {
+    "name": "Barobo Inc. (LinkBot)",
+    "lat": 38.5442702,
+    "lng": -121.73923100000002,
+    "url": "http://www.barobo.com",
+    "type": "Hobby kits & sales"
+  },
+  {
+    "name": "Dash Robotics",
+    "lat": 37.853189,
+    "lng": -122.26338599999997,
+    "url": "http://www.kamigamirobots.com/",
+    "type": "Hobby kits & sales"
+  },
+  {
+    "name": "FTR Systems (CaddyTrek)",
+    "lat": 36.072182,
+    "lng": -115.24618800000002,
+    "url": "http://www.ftrsystems.com/",
+    "type": "Entertainment robots"
+  },
+  {
+    "name": "Origami Robotics",
+    "lat": 37.8054515,
+    "lng": -122.27210339999999,
+    "url": "http://www.origamirobotics.com",
+    "type": "Educational robots"
+  },
+  {
+    "name": "Puzzlebox Productions LLC",
+    "lat": 37.7901529,
+    "lng": -122.417505,
+    "url": "http://puzzlebox.io/orbit/",
+    "type": "Consumer products"
+  },
+  {
+    "name": "Revolve Robotics (KUBI)",
+    "lat": 37.760272,
+    "lng": -122.3880977,
+    "url": "https://www.revolverobotics.com/",
+    "type": "Remote presence bots"
+  },
+  {
+    "name": "Robot App Store",
+    "lat": 37.793841,
+    "lng": -122.39733000000001,
+    "url": "http://www.robotappstore.com",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "Sifteo Inc. (acq by 3D Robotics)",
+    "lat": 37.7582565,
+    "lng": -122.38818430000003,
+    "url": "http://farewell.sifteo.com",
+    "type": "Service Robots for Personal and Private Use"
+  },
+  {
+    "name": "Fetters AeroSpace",
+    "lat": 34.0621047,
+    "lng": -118.33903520000001,
+    "url": "http://www.fettersaerospace.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Ocean Aero",
+    "lat": 32.93554,
+    "lng": -117.09767699999998,
+    "url": "http://oceanaero.us/",
+    "type": "Unmanned aerial & marine systems"
+  },
+  {
+    "name": "Evollve Ozobot",
+    "lat": 33.838737,
+    "lng": -118.38935400000003,
+    "url": "http://www.ozobot.com/",
+    "type": "Educational robots"
+  },
+  {
+    "name": "Agile Iron",
+    "lat": 37.3929389,
+    "lng": -121.93275990000001,
+    "url": "http://agile-iron.com/",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "Orbis Robotics Inc",
+    "lat": 33.1374867,
+    "lng": -117.22588300000001,
+    "url": "http://www.orbisrobotics.com",
+    "type": "Remote presence bots"
+  },
+  {
+    "name": "Magzor Robotics",
+    "lat": 34.1587201,
+    "lng": -118.8330345,
+    "url": "http://magzor.com/",
+    "type": "Retail sales & integration"
+  },
+  {
+    "name": "Saildrone",
+    "lat": 37.7831667,
+    "lng": -122.30303409999999,
+    "url": "http://www.saildrone.com",
+    "type": "Unmanned aerial & marine systems"
+  },
+  {
+    "name": "Skyworks Aerial Systems",
+    "lat": 36.0765176,
+    "lng": -115.15334259999997,
+    "url": "http://skyworksas.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "New Matter",
+    "lat": 34.146436,
+    "lng": -118.15313600000002,
+    "url": "http://www.newmatter.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "Airwolf 3D",
+    "lat": 33.683562,
+    "lng": -117.8732713,
+    "url": "http://airwolf3d.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "Tandemech Engineering",
+    "lat": 37.765158,
+    "lng": -122.40423299999998,
+    "url": "http://www.tandemech.com/",
+    "type": "Service Robots for Governmental and Corporate Use"
+  },
+  {
+    "name": "WHILL",
+    "lat": 37.5139862,
+    "lng": -122.2662292,
+    "url": "http://whill.us/",
+    "type": "Healthcare"
+  },
+  {
+    "name": "Cruise Automation (acq by GM)",
+    "lat": 37.7727629,
+    "lng": -122.4020956,
+    "url": "http://www.getcruise.com/",
+    "type": "Unmanned & mobile robotics"
+  },
+  {
+    "name": "Helico Aerospace (Airdog)",
+    "lat": 37.448084,
+    "lng": -122.162533,
+    "url": "http://www.airdog.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "AquaGenesis (RoboSnail)",
+    "lat": 32.766416,
+    "lng": -117.11493999999999,
+    "url": "http://www.agiaquatics.com/",
+    "type": "Service Robots for Personal and Private Use"
+  },
+  {
+    "name": "Pneubotics",
+    "lat": 37.758845,
+    "lng": -122.4117,
+    "url": "http://www.pneubotics.com/",
+    "type": "Service Robots for Governmental and Corporate Use"
+  },
+  {
+    "name": "Wonder Workshop (prev Play-i)",
+    "lat": 37.5473795,
+    "lng": -122.30761080000002,
+    "url": "https://www.makewonder.com",
+    "type": "Educational robots"
+  },
+  {
+    "name": "ModBot",
+    "lat": 37.7974924,
+    "lng": -122.40270220000002,
+    "url": "https://www.modbot.com/",
+    "type": "Service Robots for Governmental and Corporate Use"
+  },
+  {
+    "name": "Tempo Automation",
+    "lat": 37.7626026,
+    "lng": -122.41535950000002,
+    "url": "http://tempoautomation.com/",
+    "type": "Service Robots for Governmental and Corporate Use"
+  },
+  {
+    "name": "Transcend Robotics (ARTI)",
+    "lat": 37.7843407,
+    "lng": -122.4050866,
+    "url": "http://transcendrobotics.com/",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "Perception Robotics",
+    "lat": 34.0429261,
+    "lng": -118.23556289999999,
+    "url": "http://perceptionrobotics.com",
+    "type": "Integrator"
+  },
+  {
+    "name": "Transcriptic",
+    "lat": 37.486486,
+    "lng": -122.18674199999998,
+    "url": "http://www.transcriptic.com",
+    "type": "Life sciences labs"
+  },
+  {
+    "name": "Iron Drone (MX)",
+    "lat": 32.5309387,
+    "lng": -117.01761650000003,
+    "url": "http://www.irondroneinc.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Skydio",
+    "lat": 37.580458,
+    "lng": -122.35199,
+    "url": "http://skyd.io",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Kespry",
+    "lat": 37.4744548,
+    "lng": -122.14961010000002,
+    "url": "http://www.kespry.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Fin Robotics",
+    "lat": 37.4239551,
+    "lng": -122.14454539999997,
+    "url": "http://www.finrobotics.com/",
+    "type": "Ancillary Businesses"
+  },
+  {
+    "name": "Fetch Robotics (prev FYS Systems)",
+    "lat": 37.396925,
+    "lng": -121.89407670000003,
+    "url": "http://fetchrobotics.com",
+    "type": "Materials handling"
+  },
+  {
+    "name": "EHang Ghost Drone",
+    "lat": 37.488651,
+    "lng": -122.292486,
+    "url": "http://ghost-drone.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Skysense Inc",
+    "lat": 32.8959644,
+    "lng": -117.19583829999999,
+    "url": "http://skysense.co",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Sight Machine",
+    "lat": 37.798597,
+    "lng": -122.40259860000003,
+    "url": "http://sightmachine.com",
+    "type": "Vision systems"
+  },
+  {
+    "name": "All Drone Solutions",
+    "lat": 36.2946733,
+    "lng": -119.14100830000001,
+    "url": "http://www.alldronesolutions.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Mōtrr",
+    "lat": 37.0380632,
+    "lng": -122.1425926,
+    "url": "http://motrr.com/index.html",
+    "type": "Consumer products"
+  },
+  {
+    "name": "Prenav",
+    "lat": 37.52366,
+    "lng": -122.295208,
+    "url": "http://www.prenav.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Autonomous",
+    "lat": 37.755747,
+    "lng": -122.390355,
+    "url": "https://www.autonomous.ai/",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "Catalia Health",
+    "lat": 37.7890183,
+    "lng": -122.3915063,
+    "url": "http://www.cataliahealth.com/",
+    "type": "Healthcare"
+  },
+  {
+    "name": "Swift Navigation",
+    "lat": 37.7623972,
+    "lng": -122.38882280000001,
+    "url": "https://www.swiftnav.com/",
+    "type": "Component mfg"
+  },
+  {
+    "name": "Lily Robotics",
+    "lat": 37.4474329,
+    "lng": -122.20122900000001,
+    "url": "https://www.lily.camera/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Allied Drones",
+    "lat": 33.692749,
+    "lng": -117.98388399999999,
+    "url": "http://allieddrones.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "RoboLink",
+    "lat": 32.891878,
+    "lng": -117.19565160000002,
+    "url": "http://robolink.com",
+    "type": "Educational robots"
+  },
+  {
+    "name": "SkyFront",
+    "lat": 32.8981142,
+    "lng": -117.20293630000003,
+    "url": "http://skyfront.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Mayfield Robotics",
+    "lat": 37.4947989,
+    "lng": -122.23252130000003,
+    "url": "http://www.mayfieldrobotics.com/",
+    "type": "Service Robots for Personal and Private Use"
+  },
+  {
+    "name": "Squadrone System (HEXO+)",
+    "lat": 37.7885607,
+    "lng": -122.40480589999999,
+    "url": "https://hexoplus.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Galileo USA",
+    "lat": 34.0561379,
+    "lng": -117.2678219,
+    "url": "http://galileousa.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Auro Robotics",
+    "lat": 37.356247,
+    "lng": -122.00786900000003,
+    "url": "http://www.aurobots.com",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "Muse Robotics (Prev SkyRobotics)",
+    "lat": 32.8960313,
+    "lng": -117.19588390000001,
+    "url": "http://www.muserobotics.com",
+    "type": "Arm and/or Gripper"
+  },
+  {
+    "name": "Aquaai",
+    "lat": 37.2243379,
+    "lng": -121.9830809,
+    "url": "http://aquaai.com",
+    "type": "Unmanned aerial & marine systems"
+  },
+  {
+    "name": "KRTKL (Snickerdoodle)",
+    "lat": 37.776271,
+    "lng": -122.39650599999999,
+    "url": "http://krtkl.com",
+    "type": "Chip maker"
+  },
+  {
+    "name": "Haddington Dynamics",
+    "lat": 36.0498858,
+    "lng": -115.0204268,
+    "url": "http://hdrobotic.com/",
+    "type": "Arm and/or Gripper"
+  },
+  {
+    "name": "Rig Robotics",
+    "lat": 37.7575275,
+    "lng": -122.4110422,
+    "url": "http://www.buildeverywhere.com",
+    "type": "Construction"
+  },
+  {
+    "name": "Auris Surgical Robotics",
+    "lat": 37.5193053,
+    "lng": -122.26087230000002,
+    "url": "http://www.aurisrobotics.com/",
+    "type": "Surgical device"
+  },
+  {
+    "name": "Eyeris",
+    "lat": 37.449283,
+    "lng": -122.15990199999999,
+    "url": "http://emovu.com/e/",
+    "type": "Vision systems"
+  },
+  {
+    "name": "Motion Analysis",
+    "lat": 38.508046,
+    "lng": -122.79636019999998,
+    "url": "http://www.motionanalysis.com",
+    "type": "Inspect, measure, test"
+  },
+  {
+    "name": "Action Drone",
+    "lat": 32.6285393,
+    "lng": -116.96569549999998,
+    "url": "http://actiondroneusa.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "VineRangers",
+    "lat": 34.612983206667,
+    "lng": -120.07755057141003,
+    "url": "http://www.vinerangers.com",
+    "type": "Ag industry"
+  },
+  {
+    "name": "Petnet",
+    "lat": 34.042314,
+    "lng": -118.26176499999997,
+    "url": "http://www.petnet.io",
+    "type": "Consumer products"
+  },
+  {
+    "name": "Sereneti Kitchen",
+    "lat": 37.755107,
+    "lng": -122.41247699999997,
+    "url": "http://www.sereneti.com",
+    "type": "Consumer products"
+  },
+  {
+    "name": "Strobe Inc",
+    "lat": 34.15443,
+    "lng": -118.07979999999998,
+    "url": "http://strobeinc.com/wp/",
+    "type": "Vision systems"
+  },
+  {
+    "name": "Glare Technology",
+    "lat": 33.7130859,
+    "lng": -117.90872300000001,
+    "url": "http://www.glaremonsterwheel.com",
+    "type": "Service Robots for Personal and Private Use"
+  },
+  {
+    "name": "UAV-IQ Precision Agriculture",
+    "lat": 34.056691,
+    "lng": -118.43411400000002,
+    "url": "http://www.uaviq.farm",
+    "type": "Ag industry"
+  },
+  {
+    "name": "Binatix Inc.",
+    "lat": 37.440269,
+    "lng": -122.14136200000002,
+    "url": "http://binatix.com",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "Verb Surgical",
+    "lat": 37.3860517,
+    "lng": -122.0838511,
+    "url": "http://www.verbsurgical.com/",
+    "type": "Surgical device"
+  },
+  {
+    "name": "US Bionics (suitX)",
+    "lat": 37.8575737,
+    "lng": -122.25027319999998,
+    "url": "http://www.usbionics.com",
+    "type": "Exoskeletons & prosthetics"
+  },
+  {
+    "name": "StereoLabs (ZED)",
+    "lat": 37.7591923,
+    "lng": -122.38805580000002,
+    "url": "https://www.stereolabs.com/",
+    "type": "Vision systems"
+  },
+  {
+    "name": "Carbon 3D",
+    "lat": 37.4805973,
+    "lng": -122.22231469999997,
+    "url": "http://carbon3d.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "Luo Bo Tai La Ed Tech (RoboTerra)",
+    "lat": 37.3839198,
+    "lng": -122.0128444,
+    "url": "http://www.roboterra.org/",
+    "type": "Educational robots"
+  },
+  {
+    "name": "InGen Dynamics (Aido)",
+    "lat": 37.4239551,
+    "lng": -122.14454539999997,
+    "url": "http://www.aidorobot.com/",
+    "type": "Service Robots for Personal and Private Use"
+  },
+  {
+    "name": "Scanse",
+    "lat": 37.6876896,
+    "lng": -122.13750670000002,
+    "url": "http://www.scanse.io/",
+    "type": "Vision systems"
+  },
+  {
+    "name": "Casabots",
+    "lat": 37.3467599,
+    "lng": -121.89798389999999,
+    "url": "http://www.casabots.com/",
+    "type": "Ag industry"
+  },
+  {
+    "name": "Ceres Imaging",
+    "lat": 37.8029495,
+    "lng": -122.2685745,
+    "url": "http://www.ceresimaging.net/",
+    "type": "Ag industry"
+  },
+  {
+    "name": "VIRES Aeronautics",
+    "lat": 37.7558892,
+    "lng": -122.3906326,
+    "url": "http://viresaero.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Kinema Systems",
+    "lat": 37.453705,
+    "lng": -122.16972599999997,
+    "url": "http://www.kinemasystems.com/",
+    "type": "Materials handling"
+  },
+  {
+    "name": "Comma.ai",
+    "lat": 37.764055244036,
+    "lng": -122.40155564551003,
+    "url": "http://comma.ai/",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "Dispatch",
+    "lat": 37.65370465501,
+    "lng": -122.41251340321003,
+    "url": "http://dispatch.ai/",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "InVia Robotics",
+    "lat": 34.1462862,
+    "lng": -118.74693739999998,
+    "url": "http://www.inviarobotics.com/",
+    "type": "Materials handling"
+  },
+  {
+    "name": "Drive.ai Inc.",
+    "lat": 37.3969897,
+    "lng": -122.102352,
+    "url": "http://www.drive.ai/",
+    "type": "Self-driving vehicles"
+  },
+  {
+    "name": "SkySafe",
+    "lat": 32.7418303,
+    "lng": -117.1294997,
+    "url": "http://www.skysafe.io/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Zoox Inc.",
+    "lat": 37.4236539,
+    "lng": -122.19722869999998,
+    "url": "http://www.zoox.com/",
+    "type": "Self-driving vehicles"
+  },
+  {
+    "name": "Aerial Mob (acq by 5D Robotics)",
+    "lat": 33.087948,
+    "lng": -117.22935000000001,
+    "url": "http://aerialmob.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "AIBrain, Inc.",
+    "lat": 37.4208746,
+    "lng": -122.1412699,
+    "url": "http://aibrain.com/",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "Airmap",
+    "lat": 34.0150859,
+    "lng": -118.4940282,
+    "url": "https://www.airmap.io/",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "AVISION Robotics",
+    "lat": 34.021402,
+    "lng": -118.50151199999999,
+    "url": "http://avisionrobotics.com",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "BeBop Sensors",
+    "lat": 37.89373,
+    "lng": -122.26169600000003,
+    "url": "http://www.bebopsensors.com/",
+    "type": "Sensors mfg"
+  },
+  {
+    "name": "Carbon Robotics",
+    "lat": 37.7851278,
+    "lng": -122.42043280000001,
+    "url": "http://www.carbon.ai",
+    "type": "Service Robots for Personal and Private Use"
+  },
+  {
+    "name": "DroneFly",
+    "lat": 34.1570566,
+    "lng": -118.82969059999999,
+    "url": "http://www.dronefly.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "uAvionix",
+    "lat": 37.4228628,
+    "lng": -122.13837710000001,
+    "url": "http://www.uavionix.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Nauto",
+    "lat": 37.4420381,
+    "lng": -122.15950499999997,
+    "url": "http://www.nauto.com/",
+    "type": "Self-driving vehicles"
+  },
+  {
+    "name": "Garuda Robotics",
+    "lat": 37.4513452,
+    "lng": -122.1561984,
+    "url": "http://www.garuda.io",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Hawk Aerial, LLC",
+    "lat": 38.3958521,
+    "lng": -121.3629168,
+    "url": "http://hawkaerial.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Inova Drone",
+    "lat": 32.7151174,
+    "lng": -117.16421550000001,
+    "url": "http://www.inovadrone.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "InspecTools",
+    "lat": 36.9597643,
+    "lng": -122.05625470000001,
+    "url": "http://www.inspectools.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Dishcraft Robotics",
+    "lat": 37.7558892,
+    "lng": -122.3906326,
+    "url": "http://www.dishcraft.com/",
+    "type": "Service Robots for Governmental and Corporate Use"
+  },
+  {
+    "name": "Martin UAV",
+    "lat": 37.3744876,
+    "lng": -121.9889164,
+    "url": "http://martinuav.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Monarch Inc",
+    "lat": 35.648744,
+    "lng": -117.6797348,
+    "url": "http://www.monarchmakers.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Osaro",
+    "lat": 37.7774017,
+    "lng": -122.4115013,
+    "url": "http://www.osaro.com/",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "PloBot",
+    "lat": 34.241271,
+    "lng": -118.601157,
+    "url": "http://plobot.com/",
+    "type": "Educational robots"
+  },
+  {
+    "name": "Probotics America",
+    "lat": 38.5966072,
+    "lng": -121.3441024,
+    "url": "http://www.proboticsamerica.com/",
+    "type": "Educational robots"
+  },
+  {
+    "name": "Quanergy Systems, Inc.",
+    "lat": 37.3829411,
+    "lng": -121.9907892,
+    "url": "http://www.quanergy.com/",
+    "type": "Vision systems"
+  },
+  {
+    "name": "Rokid Inc",
+    "lat": 37.787081577543,
+    "lng": -122.41069192865001,
+    "url": "https://www.rokid.com/about",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "Saipa",
+    "lat": 37.3567633,
+    "lng": -122.0202567,
+    "url": "http://www.harvesting.co/features.html",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "Simbe Robotics",
+    "lat": 37.7558892,
+    "lng": -122.3906326,
+    "url": "http://www.simberobotics.com/",
+    "type": "Service Robots for Governmental and Corporate Use"
+  },
+  {
+    "name": "Skedans Systems",
+    "lat": 37.2424115,
+    "lng": -121.93246929999998,
+    "url": "https://skedans.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Vantage Robotics",
+    "lat": 37.7649868,
+    "lng": -122.44661450000001,
+    "url": "https://vantagerobotics.com/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "XYZ Printing",
+    "lat": 32.9035952,
+    "lng": -117.17984050000001,
+    "url": "http://us.xyzprinting.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "ZeroUI (Ziro)",
+    "lat": 37.3327427,
+    "lng": -121.8919995,
+    "url": "http://ziro.io/",
+    "type": "Hobby kits & sales"
+  },
+  {
+    "name": "Eonite Perception",
+    "lat": 37.4243512,
+    "lng": -122.10029209999999,
+    "url": "http://eonite.com/",
+    "type": "Vision systems"
+  },
+  {
+    "name": "Zipline Intl",
+    "lat": 37.507044645369,
+    "lng": -122.36187469657,
+    "url": "http://flyzipline.com/product/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "MegaBots",
+    "lat": 37.8145449,
+    "lng": -122.28908610000002,
+    "url": "https://www.megabots.com/",
+    "type": "Entertainment robots"
+  },
+  {
+    "name": "Iron Ox",
+    "lat": 37.7745727,
+    "lng": -122.43742050000003,
+    "url": "http://ironox.com/",
+    "type": "Ag industry"
+  },
+  {
+    "name": "FarmBot",
+    "lat": 35.2682465,
+    "lng": -120.66956649999997,
+    "url": "https://farmbot.io/",
+    "type": "Hobby kits & sales"
+  },
+  {
+    "name": "Arevo Labs",
+    "lat": 37.3753562,
+    "lng": -121.96005489999999,
+    "url": "http://arevolabs.com/",
+    "type": "3D printing / additive mfg"
+  },
+  {
+    "name": "Skycart",
+    "lat": 37.279533609997,
+    "lng": -121.92304787672003,
+    "url": "http://www.skycart.net/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Civil Maps",
+    "lat": 37.887333,
+    "lng": -122.283794,
+    "url": "https://www.civilmaps.com/",
+    "type": "Ancillary Businesses"
+  },
+  {
+    "name": "Abundant Robotics",
+    "lat": 37.4484914,
+    "lng": -122.18028119999997,
+    "url": "http://www.abundantrobotics.com/",
+    "type": "Ag industry"
+  },
+  {
+    "name": "Otto Motors (acq by Uber)",
+    "lat": 37.7816573,
+    "lng": -122.39801729999999,
+    "url": "http://ot.to/",
+    "type": "Self-driving vehicles"
+  },
+  {
+    "name": "Looq Robotics",
+    "lat": 37.3983364,
+    "lng": -121.97891400000003,
+    "url": "http://www.looqrobotics.com/",
+    "type": "Consumer products"
+  },
+  {
+    "name": "FogHorn Systems",
+    "lat": 37.3865294,
+    "lng": -122.0841226,
+    "url": "http://foghorn-systems.com/",
+    "type": "Software & Systems / A.I."
+  },
+  {
+    "name": "NxtRobotics",
+    "lat": 32.8332755,
+    "lng": -117.16250660000003,
+    "url": "http://www.nxtrobotics.com/",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "IPatrol (Riley)",
+    "lat": 34.0717602,
+    "lng": -117.8625702,
+    "url": "https://www.ipatrol.net/",
+    "type": "Consumer products"
+  },
+  {
+    "name": "WaterBit",
+    "lat": 37.3950422,
+    "lng": -121.97842179999998,
+    "url": "http://www.waterbit.net/",
+    "type": "Ag industry"
+  },
+  {
+    "name": "Aptonomy",
+    "lat": 37.8165714,
+    "lng": -122.37005390000002,
+    "url": "http://www.aptonomy.com/",
+    "type": "RaaS Robotics as a Service"
+  },
+  {
+    "name": "Saildrone",
+    "lat": 37.7828283,
+    "lng": -122.30514619999997,
+    "url": "http://saildrone.com/",
+    "type": "Unmanned aerial & marine systems"
+  },
+  {
+    "name": "Robby",
+    "lat": 37.422748,
+    "lng": -122.14916800000003,
+    "url": "https://robby.io/",
+    "type": "Mobile robotics / platforms / products"
+  },
+  {
+    "name": "Orobotix Seadrone",
+    "lat": 37.45537,
+    "lng": -122.1815221,
+    "url": "http://seadronepro.com/",
+    "type": "Unmanned aerial & marine systems"
+  },
+  {
+    "name": "Roam Robotics",
+    "lat": 37.7601382,
+    "lng": -122.41149769999998,
+    "url": "http://www.roamrobotics.com/",
+    "type": "Exoskeletons & prosthetics"
+  },
+  {
+    "name": "Mayan Robotics",
+    "lat": 32.6527233,
+    "lng": -116.95722180000001,
+    "url": "http://mrobotics.io/",
+    "type": "Unmanned aerial systems (UAS)"
+  },
+  {
+    "name": "Sunflower Labs",
+    "lat": 37.449039,
+    "lng": -122.15811200000002,
+    "url": "https://sunflower-labs.com/",
+    "type": "Consumer products"
+  },
+  {
+    "name": "Varden Labs",
+    "lat": 37.756856,
+    "lng": -122.41023100000001,
+    "url": "http://vardenlabs.com/",
+    "type": "Self-driving vehicles"
+  },
+  {
+    "name": "CloudMinds",
+    "lat": 37.3950422,
+    "lng": -121.97842179999998,
+    "url": "http://en.cloudminds.com/",
+    "type": "Consumer products"
+  }
+]
